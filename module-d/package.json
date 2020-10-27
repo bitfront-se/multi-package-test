@@ -1,6 +1,6 @@
 {
   "name": "module-d",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Dummy module d",
   "main": "index.js",
   "scripts": {
