@@ -1,0 +1,27 @@
+{
+  "name": "module-a",
+  "version": "1.0.0",
+  "description": "Dummy module a",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfront-se/multi-package-test.git"
+  },
+  "keywords": [
+    "dummy",
+    "test"
+  ],
+  "files": [
+    "lib",
+    "src"
+  ],
+  "author": "Mikael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitfront-se/multi-package-test/issues"
+  },
+  "homepage": "https://github.com/bitfront-se/multi-package-test#readme"
+}
