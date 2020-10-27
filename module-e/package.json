@@ -1,0 +1,23 @@
+{
+  "name": "module-e",
+  "version": "0.0.9",
+  "description": "Dummy module e, added in branch master",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitfront-se/multi-package-test.git"
+  },
+  "keywords": [
+    "dummy",
+    "test"
+  ],
+  "author": "Mikael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitfront-se/multi-package-test/issues"
+  },
+  "homepage": "https://github.com/bitfront-se/multi-package-test#readme"
+}
