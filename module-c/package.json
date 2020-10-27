@@ -1,6 +1,6 @@
 {
   "name": "module-c",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Dummy module c",
   "main": "index.js",
   "scripts": {
