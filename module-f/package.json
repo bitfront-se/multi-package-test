@@ -1,6 +1,6 @@
 {
   "name": "module-f",
-  "version": "1.0.9",
+  "version": "1.0.8",
   "description": "Dummy module f, added only in branch module-f",
   "main": "index.js",
   "scripts": {
