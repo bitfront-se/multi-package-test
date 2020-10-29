@@ -1,6 +1,6 @@
 {
   "name": "module-e",
-  "version": "0.0.9",
+  "version": "2.0.5",
   "description": "Dummy module e, added in branch master",
   "main": "index.js",
   "scripts": {
